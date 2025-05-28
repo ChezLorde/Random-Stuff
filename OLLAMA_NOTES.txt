@@ -1,0 +1,5 @@
+# START
+ollama run llama2 --verbose
+
+# MODELS
+ollama create <model name> -f <filepath>
