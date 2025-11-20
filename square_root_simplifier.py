@@ -1,5 +1,3 @@
-import math
-
 number = int(input("Please select a number. -->  "))
 
 root_factors = []
